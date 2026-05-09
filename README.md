@@ -18,9 +18,9 @@
 ### The intersection I work in
 
 Most healthcare AI developers learn the clinical domain from textbooks.
-I spent five years inside it — treating patients on Advanced Radiation Therapy machines (CyberKnife, Tomotherapy, and Linear Accelerators), managing tumour motion with 4DCT, and conducting clinical research on PTV margin optimisation for lung SBRT.
+I spent five years inside it, treating patients on Advanced Radiation Therapy machines (CyberKnife, Tomotherapy, and Linear Accelerators), managing tumour motion with 4DCT, and conducting clinical research on PTV margin optimisation for lung SBRT.
 
-That background doesn't just inform how I build — it determines what I choose to build.
+That background doesn't just inform how I build - it determines what I choose to build.
 The problems I work on are ones I've watched matter in a treatment room.
 
 ---
