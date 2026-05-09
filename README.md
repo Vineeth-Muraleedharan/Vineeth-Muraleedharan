@@ -8,7 +8,9 @@
 
 *Kochi, India &nbsp;|&nbsp; HCPC (UK) &nbsp;·&nbsp; AERB eLORA*
 
-[![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/vineeth.muraleedharan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineeth-muraleedharan-5939071b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white)][(https://public.tableau.com/app/profile/vineeth.muraleedharan)]
+[![Streamlit App](https://img.shields.io/badge/Streamlit_App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/vineeth-muraleedharan)
 
 </div>
 
