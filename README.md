@@ -8,7 +8,6 @@
 
 *Kochi, India &nbsp;|&nbsp; HCPC (UK) &nbsp;·&nbsp; AERB eLORA*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/vineeth-muraleedharan-616m])
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/vineeth.muraleedharan)
 
 </div>
@@ -33,8 +32,8 @@ The problems I work on are ones I've watched matter in a treatment room.
 | Tomotherapy | Helical IMRT · Adaptive planning |
 | Elekta Linacs | IMRT · VMAT · IGRT |
 | 4D CT | MIP / AIP / phase-gating · PTV margin research |
-| TPS | Oncentra Masterplan · iDMS |
-| Techniques | SBRT · SRS · IMRT · IGRT · Brachytherapy |
+| TPS | MONACO · Oncentra Masterplan · iDMS |
+| Techniques | SBRT · SRS · CBCT · IMRT · IGRT · Brachytherapy |
 
 5+ years · Amrita Institute of Medical Sciences, Kochi &nbsp;·&nbsp; HCPC (UK) registered
 
@@ -42,7 +41,7 @@ The problems I work on are ones I've watched matter in a treatment room.
 
 ### Now
 
-Building at the intersection of clinical physics and machine learning.
+Building at the intersection of radiation therapy and machine learning.
 Completing **Applied Data Science, ML & AI** — E&ICT Academy, IIT Guwahati (2025–2026).
 
 Areas I focus on:
