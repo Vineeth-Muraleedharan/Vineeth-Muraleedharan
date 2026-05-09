@@ -9,7 +9,7 @@
 *Kochi, India &nbsp;|&nbsp; HCPC (UK) &nbsp;·&nbsp; AERB eLORA*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/vineeth-muraleedharan-616m)
-[![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white)][(https://public.tableau.com/app/profile/vineeth.muraleedharan)]
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/vineeth.muraleedharan)
 
 </div>
 
@@ -29,8 +29,8 @@ The problems I work on are ones I've watched matter in a treatment room.
 
 | System | Experience |
 |--------|-----------|
-| CyberKnife M6 | SRS · SBRT · 6DOF motion tracking |
-| Radixact X9 Tomotherapy | Helical IGRT · Adaptive planning |
+| CyberKnife M6 | SRS · SBRT · motion tracking |
+| Tomotherapy | Helical IMRT · Adaptive planning |
 | Elekta Linacs | IMRT · VMAT · IGRT |
 | 4D CT | MIP / AIP / phase-gating · PTV margin research |
 | TPS | Oncentra Masterplan · iDMS |
