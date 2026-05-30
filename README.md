@@ -21,7 +21,7 @@
 Most healthcare AI developers learn the clinical domain from textbooks.
 I spent five years inside it, treating patients on Advanced Radiation Therapy machines (CyberKnife, Tomotherapy, and Linear Accelerators), managing tumour motion with 4DCT, and conducting clinical research on PTV margin optimisation for lung SBRT.
 
-That background doesn't just inform how I build - it determines what I choose to build.
+That background doesn't just inform how I build, it determines what I choose to build.
 The problems I work on are ones I've watched matter in a treatment room.
 
 ---
@@ -45,12 +45,6 @@ The problems I work on are ones I've watched matter in a treatment room.
 
 Building at the intersection of radiation therapy and machine learning.
 Completing **Applied Data Science, ML & AI** — E&ICT Academy, IIT Guwahati (2025–2026).
-
-Areas I focus on:
-- NTCP modelling and dose–response prediction
-- Radiomics and survival analysis in oncology
-- DICOM-native clinical tooling
-- Auto-contouring and segmentation
 
 ---
 
@@ -89,7 +83,6 @@ Areas I focus on:
 
 Clinical AI · Healthcare Data Science · Medical Imaging ML roles
 
-Remote · Riyadh · GCC
 
 ---
 
