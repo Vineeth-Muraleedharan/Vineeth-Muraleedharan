@@ -4,7 +4,7 @@
 
 ## Vineeth Muraleedharan
 
-**Senior Radiation Therapist &nbsp;·&nbsp; Data Scientist | ML & AI | Oncology AI**
+**Senior Radiation Therapist &nbsp;|&nbsp; Data Scientist | ML & AI | Oncology AI**
 
 *Kochi, India &nbsp;|&nbsp; HCPC (UK) &nbsp;·&nbsp; AERB eLORA*
 
