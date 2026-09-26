@@ -12,7 +12,6 @@ Riyadh, Saudi Arabia · HCPC (UK) · AERB eLORA
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/vineeth.muraleedharan)
 [![Streamlit App](https://img.shields.io/badge/Streamlit_App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/vineeth-muraleedharan)
 
-\</div>
 
 ---
 
