@@ -1,6 +1,6 @@
-\<div align="center">
+<div align="center">
 
-\<img src="[https://avatars.githubusercontent.com/u/245372008?v=4](https://avatars.githubusercontent.com/u/245372008?v=4)" width="96" style="border-radius:50%"/>
+<img src="https://avatars.githubusercontent.com/u/245372008?v=4" width="96" style="border-radius:50%"/>
 
 ## Vineeth Muraleedharan
 
@@ -142,7 +142,7 @@ Applied machine learning to radiation therapy data, including CyberKnife intrafr
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 
-\
+
 
 
 #### Visualization
@@ -152,7 +152,7 @@ Applied machine learning to radiation therapy data, including CyberKnife intrafr
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 
 
-\
+
 
 
 #### Generative AI & Engineering
@@ -161,7 +161,7 @@ Applied machine learning to radiation therapy data, including CyberKnife intrafr
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-\
+
 
 
 #### Clinical Imaging
@@ -169,7 +169,7 @@ Applied machine learning to radiation therapy data, including CyberKnife intrafr
 ![DICOM](https://img.shields.io/badge/DICOM-0055A4?style=flat)
 ![pydicom](https://img.shields.io/badge/pydicom-4B5563?style=flat)
 ![Cornerstone3D](https://img.shields.io/badge/Cornerstone3D-1A1A2E?style=flat)
-\
+
 
 
 ---
@@ -205,8 +205,6 @@ with applications across:
 
 ---
 
-\<div align="center">
-
-\<sub>Building AI systems with an understanding of both the data and the clinical environment.\</sub>
-
-\</div>
+<div align="center">
+<sub>Building AI systems with an understanding of both the data and the clinical environment.</sub>
+</div>
