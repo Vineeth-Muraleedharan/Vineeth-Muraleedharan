@@ -30,19 +30,9 @@ I am a **Data Scientist and Machine Learning practitioner with a clinical backgr
 
 My work sits at the intersection of **Data Science, Machine Learning, Generative AI, Radiation Oncology, medical imaging, and clinical workflows**.
 
-Before moving into Data Science, I spent 5+ years working in radiation oncology with advanced treatment platforms including **CyberKnife, TomoTherapy, and Linear Accelerators**, working with 4DCT, image-guided radiotherapy, SBRT, and tumour motion management.
+Before moving into Data Science, I spent 5+ years working in radiation oncology with advanced treatment platforms including **CyberKnife, TomoTherapy, and Linear Accelerators**, working with 4DCT, image-guided radiotherapy, SBRT, and tumour motion management. That clinical experience influences the problems I choose to solve — I'm particularly interested in building AI systems that work with clinical data, domain-specific knowledge, and real-world healthcare workflows.
 
-That clinical experience influences the problems I choose to solve.
-
-I am particularly interested in building AI systems that can work with **clinical data, radiation oncology, domain-specific knowledge, and real-world healthcare workflows**.
-
----
-
-## The Intersection I Work In
-
-Healthcare AI requires more than models; it requires an understanding of the environment where those models are used.
-
-My background combines:
+Healthcare AI requires more than models; it requires an understanding of the environment where those models are used. My background combines:
 
 <table>
 <tr>
@@ -53,7 +43,7 @@ My background combines:
 </tr>
 </table>
 
-This combination allows me to approach healthcare problems from both the **clinical and technical perspectives**.
+This combination lets me approach healthcare problems from both the clinical and technical perspectives.
 
 ---
 
@@ -107,9 +97,7 @@ This combination allows me to approach healthcare problems from both the **clini
 </tr>
 </table>
 
----
-
-## Selected Projects
+**Selected Projects**
 
 <table>
 <tr>
@@ -191,29 +179,12 @@ Applied machine learning to radiation therapy data, including CyberKnife intrafr
 
 ---
 
-## Currently Learning
-
-**Applied Data Science · Machine Learning · Deep Learning · Generative AI · RAG · Agentic AI · Healthcare AI**
-
+**Currently Learning:** Applied Data Science · Machine Learning · Deep Learning · Generative AI · RAG · Agentic AI · Healthcare AI
 E&ICT Academy, IIT Guwahati · 2025-2026
 
----
+I am building toward **Clinical Intelligence** — software and AI systems connecting Clinical Knowledge + Data + AI + Radiation Oncology + Medical Imaging, with applications across Healthcare Data Science, Clinical AI, Medical Imaging, Oncology AI, Intelligent Clinical Software, and Generative AI for Healthcare.
 
-## Current Focus
-
-I am building toward **Clinical Intelligence** — developing software and AI systems that connect:
-
-**Clinical Knowledge + Data + AI + Radiation Oncology + Medical Imaging**
-
-with applications across:
-
-Healthcare Data Science · Clinical AI · Medical Imaging · Oncology AI · Intelligent Clinical Software · Generative AI for Healthcare
-
----
-
-## Open to
-
-**Data Scientist · Machine Learning Engineer · Healthcare Data Scientist · Clinical Data Scientist · Healthcare AI · Medical Imaging ML**
+**Open to:** Data Scientist · Machine Learning Engineer · Healthcare Data Scientist · Clinical Data Scientist · Healthcare AI · Medical Imaging ML
 
 ---
 
