@@ -6,7 +6,7 @@
 
 **Data Scientist | Machine Learning & AI | Healthcare | Radiation Oncology & Medical Imaging**
 
-Riyadh, Saudi Arabia · HCPC (UK) · AERB eLORA
+Kerala, India · HCPC (UK) · AERB eLORA
 
 <p>
 <a href="https://www.linkedin.com/in/vineeth-muraleedharan-5939071b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
