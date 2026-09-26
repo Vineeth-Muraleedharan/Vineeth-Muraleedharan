@@ -176,7 +176,7 @@ Applied machine learning to radiation therapy data, including CyberKnife intrafr
 **Currently Learning:** Applied Data Science · Machine Learning · Deep Learning · Generative AI · RAG · Agentic AI · Healthcare AI
 E&ICT Academy, IIT Guwahati · 2025-2026
 
-I am building toward **Clinical Intelligence** — software and AI systems connecting Clinical Knowledge + Data + AI + Radiation Oncology + Medical Imaging, with applications across Healthcare Data Science, Clinical AI, Medical Imaging, Oncology AI, Intelligent Clinical Software, and Generative AI for Healthcare.
+I am building toward **Clinical Intelligence** - software and AI systems connecting Clinical Knowledge + Data + AI + Radiation Oncology + Medical Imaging, with applications across Healthcare Data Science, Clinical AI, Medical Imaging, Oncology AI, Intelligent Clinical Software, and Generative AI for Healthcare.
 
 **Open to:** Data Scientist · Machine Learning Engineer · Healthcare Data Scientist · Clinical Data Scientist · Healthcare AI · Medical Imaging ML
 
