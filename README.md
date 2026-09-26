@@ -1,5 +1,3 @@
-<div align="center">
-
 <img src="https://avatars.githubusercontent.com/u/245372008?v=4" width="96" style="border-radius:50%"/>
 
 # Vineeth Muraleedharan
@@ -8,7 +6,6 @@
 
 Kerala, India · HCPC (UK) · AERB eLORA
 
-<p>
 <a href="https://www.linkedin.com/in/vineeth-muraleedharan-5939071b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -18,9 +15,6 @@ Kerala, India · HCPC (UK) · AERB eLORA
 <a href="https://share.streamlit.io/user/vineeth-muraleedharan">
 <img src="https://img.shields.io/badge/Streamlit_App-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit App"/>
 </a>
-</p>
-
-<br>
 
 ---
 
@@ -30,16 +24,16 @@ I am a **Data Scientist and Machine Learning practitioner with a clinical backgr
 
 My work sits at the intersection of **Data Science, Machine Learning, Generative AI, Radiation Oncology, medical imaging, and clinical workflows**.
 
-Before moving into Data Science, I spent 5+ years working in radiation oncology with advanced treatment platforms including **CyberKnife, TomoTherapy, and Linear Accelerators**, working with 4DCT, image-guided radiotherapy, SBRT, and tumour motion management. That clinical experience influences the problems I choose to solve — I'm particularly interested in building AI systems that work with clinical data, domain-specific knowledge, and real-world healthcare workflows.
+Before moving into Data Science, I spent 5+ years working in radiation oncology with advanced treatment platforms including **CyberKnife, TomoTherapy, and Linear Accelerators**, working with 4DCT, image-guided radiotherapy, SBRT, and tumour motion management. That clinical experience influences the problems I choose to solve - I'm particularly interested in building AI systems that work with clinical data, domain-specific knowledge, and real-world healthcare workflows.
 
 Healthcare AI requires more than models; it requires an understanding of the environment where those models are used. My background combines:
 
 <table>
 <tr>
-<td align="center" width="25%"><b>Clinical Expertise</b><br><sub>Radiation Therapy · Oncology · Medical Imaging · Treatment Workflows</sub></td>
-<td align="center" width="25%"><b>Data Science</b><br><sub>Python · SQL · Statistics · EDA · Data Visualization</sub></td>
-<td align="center" width="25%"><b>Machine Learning</b><br><sub>Scikit-learn · XGBoost · TensorFlow/Keras · CNNs · SHAP</sub></td>
-<td align="center" width="25%"><b>Generative AI</b><br><sub>LLMs · RAG · Prompt Engineering · Vector Databases · AI Assistants</sub></td>
+<td width="25%"><b>Clinical Expertise</b><br><sub>Radiation Therapy · Oncology · Medical Imaging · Treatment Workflows</sub></td>
+<td width="25%"><b>Data Science</b><br><sub>Python · SQL · Statistics · EDA · Data Visualization</sub></td>
+<td width="25%"><b>Machine Learning</b><br><sub>Scikit-learn · XGBoost · TensorFlow/Keras · CNNs · SHAP</sub></td>
+<td width="25%"><b>Generative AI</b><br><sub>LLMs · RAG · Prompt Engineering · Vector Databases · AI Assistants</sub></td>
 </tr>
 </table>
 
@@ -189,5 +183,3 @@ I am building toward **Clinical Intelligence** — software and AI systems conne
 ---
 
 <sub>Building AI systems with an understanding of both the data and the clinical environment.</sub>
-
-</div>
