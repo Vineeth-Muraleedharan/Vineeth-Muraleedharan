@@ -20,7 +20,7 @@ Kerala, India · HCPC (UK) · AERB eLORA
 
 ## About Me
 
-I am a **Data Scientist and Machine Learning practitioner with a clinical background in Radiation Therapy**.
+I am an aspiring **Data Scientist and Machine Learning practitioner with a clinical background in Radiation Therapy**.
 
 My work sits at the intersection of **Data Science, Machine Learning, Generative AI, Radiation Oncology, medical imaging, and clinical workflows**.
 
