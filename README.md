@@ -1,3 +1,21 @@
+# Vineeth Muraleedharan
+
+**Data Scientist | Machine Learning & AI | Healthcare | Radiation Oncology & Medical Imaging**
+
+Kerala, India · HCPC (UK) · AERB eLORA
+
+<a href="https://www.linkedin.com/in/vineeth-muraleedharan-5939071b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://public.tableau.com/app/profile/vineeth.muraleedharan">
+<img src="https://img.shields.io/badge/Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Public"/>
+</a>
+<a href="https://share.streamlit.io/user/vineeth-muraleedharan">
+<img src="https://img.shields.io/badge/Streamlit_App-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit App"/>
+</a>
+
+---
+
 <div align="center">
 
 <img src="./prompt-contributions.svg" height="38" /><br>
@@ -14,24 +32,6 @@
 </table>
 
 </div>
-
----
-
-# Vineeth Muraleedharan
-
-**Data Scientist | Machine Learning & AI | Healthcare | Radiation Oncology & Medical Imaging**
-
-Kerala, India · HCPC (UK) · AERB eLORA
-
-<a href="https://www.linkedin.com/in/vineeth-muraleedharan-5939071b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://public.tableau.com/app/profile/vineeth.muraleedharan">
-<img src="https://img.shields.io/badge/Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Public"/>
-</a>
-<a href="https://share.streamlit.io/user/vineeth-muraleedharan">
-<img src="https://img.shields.io/badge/Streamlit_App-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit App"/>
-</a>
 
 ---
 
