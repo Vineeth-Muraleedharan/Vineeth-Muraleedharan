@@ -44,7 +44,7 @@ MUTED = "#8b949e"
 PROMPT_COLOR = "#14B8A6"   # teal — the "whoami" prompt line
 CURSOR_COLOR = "#22C55E"   # emerald — blinking cursor
 
-PROMPT_TEXT = "vineeth@github ~ $ whoami"
+PROMPT_TEXT = "vineeth@github ~ whoami"
 PROMPT_FONT_SIZE = 14
 PROMPT_CHAR_W = PROMPT_FONT_SIZE * 0.6
 
