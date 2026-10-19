@@ -41,12 +41,7 @@ DOT_GREEN = "#27c93f"
 LABEL_COLOR = "#A78BFA"    # violet — field keys (NOW/PREV/STACK/HIGHLIGHTS)
 VALUE_COLOR = "#c9d1d9"
 MUTED = "#8b949e"
-PROMPT_COLOR = "#14B8A6"   # teal — the "whoami" prompt line
-CURSOR_COLOR = "#22C55E"   # emerald — blinking cursor
-
-PROMPT_TEXT = "vineeth@github ~ whoami"
-PROMPT_FONT_SIZE = 14
-PROMPT_CHAR_W = PROMPT_FONT_SIZE * 0.6
+CURSOR_COLOR = "#22C55E"   # emerald — blinking cursor, in the title bar
 
 FIELDS = [
     ("now", "Data Scientist & ML Engineer — building Clinical Intelligence"),
@@ -72,7 +67,7 @@ def build(static: bool) -> str:
     # Pre-compute every line (label line + wrapped value lines) with its
     # vertical position, so we know total height up front.
     lines = []  # list of (text, is_label, y)
-    y = TITLEBAR_H + 34
+    y = TITLEBAR_H + 26
 
     for label, value in FIELDS:
         lines.append((label.upper(), True, y))
@@ -132,12 +127,10 @@ def build(static: bool) -> str:
   <circle cx="64" cy="{TITLEBAR_H/2}" r="6" fill="{DOT_GREEN}"/>
   <text x="{WIDTH/2}" y="{TITLEBAR_H/2}" text-anchor="middle" font-family="{FONT}" font-size="13"
         fill="{MUTED}">neofetch</text>
-  <line x1="0" y1="{TITLEBAR_H}" x2="{WIDTH}" y2="{TITLEBAR_H}" stroke="{BORDER}" stroke-width="1"/>
-
-  <text x="{PAD_X}" y="{TITLEBAR_H + 20}" font-family="{FONT}" font-size="{PROMPT_FONT_SIZE}" fill="{PROMPT_COLOR}">{PROMPT_TEXT}</text>
-  <rect x="{PAD_X + len(PROMPT_TEXT) * PROMPT_CHAR_W + 2:.2f}" y="{TITLEBAR_H + 20 - PROMPT_FONT_SIZE * 0.78:.2f}" width="{PROMPT_CHAR_W:.2f}" height="{PROMPT_FONT_SIZE:.2f}" fill="{CURSOR_COLOR}">
+  <rect x="{WIDTH/2 + 8*13*0.6/2 + 4:.2f}" y="{TITLEBAR_H/2 - 13*0.62:.2f}" width="{13*0.6:.2f}" height="{13*1.15:.2f}" fill="{CURSOR_COLOR}">
     <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1.1s" repeatCount="indefinite"/>
   </rect>
+  <line x1="0" y1="{TITLEBAR_H}" x2="{WIDTH}" y2="{TITLEBAR_H}" stroke="{BORDER}" stroke-width="1"/>
 
   {''.join(line_svgs)}
 </svg>
