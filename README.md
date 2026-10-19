@@ -1,14 +1,14 @@
 <div align="center">
 
 <img src="./prompt-contributions.svg" height="38" /><br>
-<img src="./contrib-heatmap.svg" width="860" />
+<img src="./contrib-heatmap.svg" width="950" />
 
 <br><br>
 
 <img src="./prompt-whoami.svg" height="38" />
 <table>
 <tr>
-<td valign="top"><img src="./ascii-portrait.svg" width="370" /></td>
+<td valign="top"><img src="./portrait.svg" width="460" /></td>
 <td valign="top"><img src="./info-card.svg" width="490" /></td>
 </tr>
 </table>
