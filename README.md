@@ -17,8 +17,6 @@
 
 ---
 
-<img src="https://avatars.githubusercontent.com/u/245372008?v=4" width="96" style="border-radius:50%"/>
-
 # Vineeth Muraleedharan
 
 **Data Scientist | Machine Learning & AI | Healthcare | Radiation Oncology & Medical Imaging**
