@@ -34,7 +34,7 @@ FONT_SIZE = CHAR_H * 0.92
 PAD = 6
 
 FILL = "#9aa4ad"          # single light-gray monochrome fill
-CURSOR_FILL = "#39d353"   # small accent cursor riding the wipe edge
+CURSOR_FILL = "#22C55E"   # VINE emerald — accent cursor riding the wipe edge
 FONT = "ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace"
 
 ROW_STAGGER = 0.045       # extra seconds of delay per row

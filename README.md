@@ -1,11 +1,11 @@
 <div align="center">
 
-<h3><code>vineeth@github ~ $ ./contributions.sh</code></h3>
+<img src="./prompt-contributions.svg" height="38" /><br>
 <img src="./contrib-heatmap.svg" width="860" />
 
 <br><br>
 
-<h3><code>vineeth@github ~ $ whoami</code></h3>
+<img src="./prompt-whoami.svg" height="38" />
 <table>
 <tr>
 <td valign="top"><img src="./ascii-portrait.svg" width="370" /></td>

@@ -31,9 +31,10 @@ TEXT_MUTED = "#8b949e"
 TEXT_STRONG = "#c9d1d9"
 FONT = "ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace"
 
-# none -> level 1 -> level 2 -> level 3 -> level 4 ; index 5 is a neon
-# highlight reserved for the single best day, not a regular bucket.
-PALETTE = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353", "#69f0a0"]
+# VINE Ecosystem brand accents (locked): teal #14B8A6, emerald #22C55E,
+# violet #A78BFA. none -> level1..4 ramps from dark teal up to emerald;
+# index 5 (violet) is reserved for the single best day, not a regular bucket.
+PALETTE = ["#161b22", "#0d3b36", "#116659", "#14B8A6", "#22C55E", "#A78BFA"]
 
 MONTH_NAMES = [
     "Jan", "Feb", "Mar", "Apr", "May", "Jun",

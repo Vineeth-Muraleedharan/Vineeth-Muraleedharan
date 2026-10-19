@@ -35,10 +35,18 @@ TITLEBAR_BG = "#161b22"
 DOT_RED = "#ff5f56"
 DOT_YELLOW = "#ffbd2e"
 DOT_GREEN = "#27c93f"
-LABEL_COLOR = "#39d353"
+
+# VINE Ecosystem brand accents (locked): teal #14B8A6, emerald #22C55E,
+# violet #A78BFA.
+LABEL_COLOR = "#A78BFA"    # violet — field keys (NOW/PREV/STACK/HIGHLIGHTS)
 VALUE_COLOR = "#c9d1d9"
 MUTED = "#8b949e"
-PROMPT_COLOR = "#58a6ff"
+PROMPT_COLOR = "#14B8A6"   # teal — the "whoami" prompt line
+CURSOR_COLOR = "#22C55E"   # emerald — blinking cursor
+
+PROMPT_TEXT = "vineeth@github ~ $ whoami"
+PROMPT_FONT_SIZE = 14
+PROMPT_CHAR_W = PROMPT_FONT_SIZE * 0.6
 
 FIELDS = [
     ("now", "Data Scientist & ML Engineer — building Clinical Intelligence"),
@@ -126,7 +134,10 @@ def build(static: bool) -> str:
         fill="{MUTED}">neofetch</text>
   <line x1="0" y1="{TITLEBAR_H}" x2="{WIDTH}" y2="{TITLEBAR_H}" stroke="{BORDER}" stroke-width="1"/>
 
-  <text x="{PAD_X}" y="{TITLEBAR_H + 20}" font-family="{FONT}" font-size="14" fill="{PROMPT_COLOR}">vineeth@github ~ $ whoami</text>
+  <text x="{PAD_X}" y="{TITLEBAR_H + 20}" font-family="{FONT}" font-size="{PROMPT_FONT_SIZE}" fill="{PROMPT_COLOR}">{PROMPT_TEXT}</text>
+  <rect x="{PAD_X + len(PROMPT_TEXT) * PROMPT_CHAR_W + 2:.2f}" y="{TITLEBAR_H + 20 - PROMPT_FONT_SIZE * 0.78:.2f}" width="{PROMPT_CHAR_W:.2f}" height="{PROMPT_FONT_SIZE:.2f}" fill="{CURSOR_COLOR}">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
 
   {''.join(line_svgs)}
 </svg>
